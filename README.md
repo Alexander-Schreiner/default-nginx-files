@@ -3,5 +3,3 @@ This repository contains all the files you will find in /etc/nginx after install
 
 # About me
 Check out my other repositories: https://github.com/Alexander-Schreiner?tab=repositories
-
-Check out my website: http://alexanderschreiner.me
